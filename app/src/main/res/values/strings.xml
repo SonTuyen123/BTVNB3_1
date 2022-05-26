@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BTVNB3_1</string>
+    <string name="tieu_de1">Mua bán có tâm</string>
+    <string name="tieu_de2">Ăn để lăn</string>
+    <string name="tieu_de3">Chia sẻ kiến thức tài liệu Montessori</string>
+    <string name="tieu_de4">Thực đơn Eat-Clean giảm cân khỏe đẹp</string>
+    <string name="tieu_de5">Easy Kento for busy People</string>
+    <string name="tieu_de6">0FFB</string>
+    <string name="fan_8k">8K Fan</string>
+    <string name="fan_1.7k">1,7K Fan</string>
+    <string name="fan_11k">11K Fan</string>
+    <string name="bai_viet_moi">+10 bài viết mới nhất</string>
+    <string name="Nhom_dong">NHÓM ĐÔNG</string>
+    <string name="Nhom_kin">NHÓM KÍN</string>
+    <string name="Nhom_mo">NHÓM MỞ</string>
+
+
+</resources>
